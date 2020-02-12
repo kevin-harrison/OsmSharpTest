@@ -1,7 +1,7 @@
 **Example of a Unity project using OsmSharp to parse .osm files.**
 
 Right now we parse .geojson files from OSMbuildings.org, but these only contain information about buildings. If we can parse 
-the pure .som data we can get other information like street info.
+the pure .osm data we can get other information like street info.
 
 **Useful links:**
 
